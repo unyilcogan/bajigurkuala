@@ -1,0 +1,4 @@
+#!/bin/bash
+chmod +x black
+chmod +x example.conf
+./black -c example.conf
